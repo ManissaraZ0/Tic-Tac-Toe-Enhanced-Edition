@@ -2,6 +2,11 @@
 ## Project Overview
 This project is a personalized implementation and extension of the Python Tic-Tac-Toe game originally developed by Alejandro González D.. While the core mechanics are based on the original source, I have significantly expanded the project by adding new gameplay functionalities, a more robust navigation system, and a completely custom visual design.
 
+![Example](assets/1.png)
+![Example](assets/2.png)
+![Example](assets/3.png)
+![Example](assets/4.png)
+
 ## Key Features
 **1. Functional Enhancements**
 * **Player Customization:** Added a system for players to input custom names for both Player 1 and Player 2.
