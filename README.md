@@ -1,6 +1,8 @@
 # Tic-Tac-Toe Enhanced Edition
 ## Project Overview
-This project is a personalized implementation and extension of the Python Tic-Tac-Toe game originally developed by Alejandro González D.. While the core mechanics are based on the original source, I have significantly expanded the project by adding new gameplay functionalities, a more robust navigation system, and a completely custom visual design.
+Developed in **2023** for the course **CP111 Fundamentals of Computer Programming**.
+
+> This project implements additional features and UI enhancements on top of the original [Tic-Tac-Toe](https://github.com/AlejoG10/python-tictactoe-yt) source code.
 
 ![Example](assets/1.png)
 ![Example](assets/2.png)
